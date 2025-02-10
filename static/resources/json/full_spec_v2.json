@@ -344774,7 +344774,8 @@
         "x-menu-order": 27,
         "x-undo": {
           "type": "safe"
-        }
+        },
+        "x-unstable": "**Note**: This endpoint is a private preview.\nIf you are interested in accessing this API, please [fill out this form](https://forms.gle/kMYC1sDr6WDUBDsx9)."
       }
     },
     "/api/v2/security/signals/notification_rules": {

@@ -2717,7 +2717,8 @@ menu:
           - v2
         operationids:
           - GetSBOM
-        unstable: []
+        unstable:
+          - v2
         order: 27
     - name: List vulnerable assets
       url: '#list-vulnerable-assets'
